@@ -1,0 +1,16 @@
+gensim==3.8.1
+numpy
+regex==2019.12.20
+scipy
+sentencepiece==0.1.99
+scikit-learn
+spacy==3.6.0
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.13.1+cu116
+transformers==4.33.2
+tqdm==4.41.0
+jsonlines==1.2.0
+nltk==3.5
+pillow
+tensorboardx
+pandas
