@@ -8,8 +8,8 @@ This repository includes the code base used in the paper "GraLMatch: Matching Gr
 - Fernando De Meer Pardo; University of Zurich, Zurich University of Applied Sciences, Winterthur, Switzerland; [fernando.demeerpardo@zhaw.ch](mailto:fernando.demeerpardo@zhaw.ch)
 - Claude Lehmann; Zurich University of Applied Sciences, Winterthur, Switzerland; [claude.lehmann@zhaw.ch](mailto:claude.lehmann@zhaw.ch)
 - Dennis Gehrig; Zurich University of Applied Sciences, Winterthur, Switzerland; [dennis.gehrig@zhaw.ch](mailto:dennis.gehrig@zhaw.ch)
-- Andrea Nagy; Move Digital AG, Zurich, Switzerland; [andrea.nagy@movedigital.ch](mailto:andrea.nagy@movedigital.ch)
-- Stefano Nicoli; Move Digital AG, Zurich, Switzerland; [stefano.nicoli@movedigital.ch](mailto:stefano.nicoli@movedigital.ch)
+- Andrea Nagy; Move Digital AG, Zurich, Switzerland;
+- Stefano Nicoli; Move Digital AG, Zurich, Switzerland;
 - Branka Hadji Misheva; Bern University of Applied Sciences, Bern, Switzerland; [branka.hadjimisheva@bfh.ch](mailto:branka.hadjimisheva@bfh.ch)
 - Martin Braschler; Zurich University of Applied Sciences, Winterthur, Switzerland; [martin.braschler@zhaw.ch](mailto:martin.braschler@zhaw.ch)
 - Kurt Stockinger; University of Zurich, Zurich University of Applied Sciences, Winterthur, Switzerland; [kurt.stockinger@zhaw.ch](mailto:kurt.stockinger@zhaw.ch)
